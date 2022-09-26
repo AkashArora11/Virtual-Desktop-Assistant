@@ -25,5 +25,5 @@ Created on - 19 April, 2021
 </ul>
 
 <p dir="auto">
-    <code>python 'Virtual Desktop Assistant.py'</code>
+    <code>python 'Voice Assistant.py'</code>
 </p>
