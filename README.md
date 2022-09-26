@@ -1,8 +1,11 @@
 # Virtual-Desktop-Assistant
 
 <p dir="auto">
-Author : Akash Arora <br>
-Created on - 19 April, 2021 <br>
+Author : Akash Arora
+</p>
+
+<p dir="auto">
+Created on - 19 April, 2021 
 </p>
 
 ---
